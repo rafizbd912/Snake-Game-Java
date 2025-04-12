@@ -52,6 +52,3 @@ A screenshot of the complete project file structure is provided in the submissio
 2. **Execute the Game:**  
    Run the `SnakeGame` class. The game will launch, displaying the game board and initiating the Snake game.
 
-## Conclusion
-
-This project demonstrates the effective integration of advanced programming concepts into a functional and engaging game. By using 2D arrays for spatial management, collections for dynamic game state handling, thorough JUnit tests for reliability, and inheritance for code reuse, the project underscores best practices in software development and game design.
